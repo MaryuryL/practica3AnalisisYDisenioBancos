@@ -1,0 +1,7 @@
+c:\users\leinder cordero\documents\visual studio 2013\Projects\[AyD1]PRactica1\AyD1PRactica1_TEST\obj\Debug\AyD1PRactica1_TEST.csprojResolveAssemblyReference.cache
+c:\users\leinder cordero\documents\visual studio 2013\Projects\[AyD1]PRactica1\AyD1PRactica1_TEST\bin\Debug\AyD1PRactica1_TEST.dll
+c:\users\leinder cordero\documents\visual studio 2013\Projects\[AyD1]PRactica1\AyD1PRactica1_TEST\bin\Debug\AyD1PRactica1_TEST.pdb
+c:\users\leinder cordero\documents\visual studio 2013\Projects\[AyD1]PRactica1\AyD1PRactica1_TEST\bin\Debug\[AyD1]PRactica1.dll
+c:\users\leinder cordero\documents\visual studio 2013\Projects\[AyD1]PRactica1\AyD1PRactica1_TEST\bin\Debug\[AyD1]PRactica1.pdb
+c:\users\leinder cordero\documents\visual studio 2013\Projects\[AyD1]PRactica1\AyD1PRactica1_TEST\obj\Debug\AyD1PRactica1_TEST.dll
+c:\users\leinder cordero\documents\visual studio 2013\Projects\[AyD1]PRactica1\AyD1PRactica1_TEST\obj\Debug\AyD1PRactica1_TEST.pdb
