@@ -29,8 +29,8 @@ namespace AyD1PRactica1_TEST
         [TestMethod]
         public void ConsultaSaldo()
         {
-            float actual = Metodos.Consulta(13);
-            float esperado = float.Parse("1000");
+            double actual = Metodos.Consulta(13);
+            double esperado = 1000;
 
             Assert.AreEqual(esperado, actual);
         }
