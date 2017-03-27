@@ -11,7 +11,7 @@ namespace AyD1PRactica1_TEST
         [TestMethod]
         public void Login()
         {
-            var actual = Metodos.PLogin(6, "lea", "cpoino");
+            var actual = Metodos.PLogin(6, "lea", "camino");
             bool esperado = true;
 
             Assert.AreEqual(esperado, actual);
@@ -29,8 +29,8 @@ namespace AyD1PRactica1_TEST
         [TestMethod]
         public void ConsultaSaldo()
         {
-            float actual = Metodos.Consulta(2);
-            float esperado = float.Parse("53,5");
+            float actual = Metodos.Consulta(13);
+            float esperado = float.Parse("1000");
 
             Assert.AreEqual(esperado, actual);
         }
